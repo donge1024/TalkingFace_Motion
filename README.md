@@ -1,5 +1,5 @@
 # TalkingFace_Motion
-![pipeline](https://github.com/user-attachments/assets/9874b985-1b8f-49dd-b2b7-7ba43fe654db)
+![pipeline06](https://github.com/user-attachments/assets/2c296b05-fa54-4b40-bfb6-f8d0c81ff12b)
 This paper proposes a method to improve the quality of talking videos by enhancing the motion features learning ability, which effectively captures the dynamic changes and spatial-temporal relationships between head pose and facial motion.
 It includes cross representation augmentation (CRA) and spatial-temporal alignment correction (STAC). CRA achieves feature augmentation by cross-processing motion features, which can better represent the temporal distribution of dynamic feature changes to improve the accuracy of motion features representation. STAC emphasizes the spatial-temporal alignment of motion features, ensuring the consistency of head pose and facial motion under different spatial-temporal conditions, thereby reducing the alignment loss of motion features. Extensive experiments have shown that the proposed method can accurately learn the motion features of a speaker in the reference video with natural video generation, which has better performance than other state-of-the-art methods.
 
