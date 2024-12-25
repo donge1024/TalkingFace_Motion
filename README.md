@@ -8,11 +8,11 @@ https://github.com/user-attachments/assets/fd22ecb9-256a-450b-8f56-6a01d34fd29a
 
 ## **Dataset**
 Our datasets come from public interviews or TV shows.
-https://github.com/user-attachments/assets/fce47b5a-e4ab-4e6c-8005-623dc2bc9c27
-https://github.com/user-attachments/assets/f2b57226-1595-4b00-8a00-eb0d53dd229b
-https://github.com/user-attachments/assets/59eb8c2a-92f6-4a2e-a1fc-6c97334f1b46
-https://github.com/user-attachments/assets/501ce30e-ab4c-4b55-b98b-9a8767178e49
-https://github.com/user-attachments/assets/50486245-fe6a-451f-a201-837bb8f2386c
+-  https://github.com/user-attachments/assets/fce47b5a-e4ab-4e6c-8005-623dc2bc9c27
+-  https://github.com/user-attachments/assets/f2b57226-1595-4b00-8a00-eb0d53dd229b
+-  https://github.com/user-attachments/assets/59eb8c2a-92f6-4a2e-a1fc-6c97334f1b46
+-  https://github.com/user-attachments/assets/501ce30e-ab4c-4b55-b98b-9a8767178e49
+-  https://github.com/user-attachments/assets/50486245-fe6a-451f-a201-837bb8f2386c
 
 ## **Highlights**
 -  A cross representation augmentation scheme namely CRA, is adopted to achieve feature augmentation by cross-processing of motion features, thereby improving the accuracy of feature representation. This is conducive to accurately learning motion features of reference videos and improving the accuracy of head pose and facial motion in generated videos.
